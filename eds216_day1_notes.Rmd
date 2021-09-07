@@ -1,0 +1,53 @@
+---
+title: "EDS 216 Day1 Notes"
+author: "Scout Leonard"
+date: "9/7/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### WHy complete a review?
+
+- you don't want to throw money at a problem or question that's already been addressed
+- oboarding new team members 
+- examine existing studies with a broader view
+
+### Narrative Reviews
+
+
+### Textbook Examples 
+Individual studies that have garnered review over the years.
+
+### Vote Counting
+Counting studies and tallying the number of significant results in different directions or nonsignificant results. 
+
+### Meta analyses
+Statistical analyses of a large number of individual studies 
+- there are ways to synchronize the way we compare studies 
+- imposes criteria for studies to be included/excluded in analyses
+- goals: transparency, repeatability, objectivity
+*Partly overlap with systematic reviews. COllate info from previously published studies.*
+
+**Systematic map** investigates more broad research questions when compared to meta analysis.
+
+## Ciation Management with Zotero
+
+*with Annie Platoff on the UCSB library system*
+
+Goals
+- what is a citation manager and what does it do? 
+- types of files you can put in zotero 
+- downloading records from scratch
+- how to organizae yourself in zotero
+- how to export citations/bibliographies 
+
+
+
+
+
+
+
+
