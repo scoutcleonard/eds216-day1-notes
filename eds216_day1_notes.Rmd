@@ -44,6 +44,33 @@ Goals
 - how to organizae yourself in zotero
 - how to export citations/bibliographies 
 
+### Software, Connectors, and Documentation
+
+**Zotero** is a free, easy-to-use tool for collect/organize/cite & share research. 
+
+### Getting Started
+
+- Be organized. Uploading tidy records saves you trouble later. 
+
+### Organizing Your Library
+
+- you can create multiple **collections** in your library
+
+- under preferences, select sync to sync your Zotero account to the app
+
+- under files and folder, you can create a base directory where your citations are stored. keep in mind you may lose access to your account after graduating. this is in "files and folders" under "advanced" in "preferences"
+
+- you can create collections and subcollections to organize your topics 
+
+- choose style conventions and stick with them from the beginning (like naming dates, etc.)
+
+- duplicate a book record and change its name to add a book chapter 
+
+- related tab lets you link related resources from your collection 
+
+- files can be in more than one folder 
+
+- 
 
 
 
