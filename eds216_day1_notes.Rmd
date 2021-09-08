@@ -70,9 +70,16 @@ Goals
 
 - files can be in more than one folder 
 
-- 
+### Importing Your Records 
 
+- JSTOR peculiarity: download PDFs then upload the files through Zotero. You can't download PDFs using the Zotero plugin in your internet browser. 
 
+### Citing Sources 
+
+-  select a bunch of items, right click, create citation
+  - select style
+  - copy to clipboard 
+  - paste special to keep your formatting 
 
 
 
